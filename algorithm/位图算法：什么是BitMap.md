@@ -8,8 +8,6 @@
 
 
 
-![img](file:///C:\Users\艾丹\Documents\Tencent Files\2120931891\nt_qq\nt_data\Pic\2023-12\Ori\bf5f1a9050776a0041b7199ca592a6d4.png)
-
 ## BitMap的开源实现[#](https://www.cnblogs.com/54chensongxia/p/11591979.html#2-bitmap的开源实现)
 
 BitMap算法的开源实现由**JDK的BitSet和谷歌的EWAHCompressedBitmap。**
@@ -50,4 +48,6 @@ BitSet是对BitMap算法的简单实现，而EWAHCompressedBitmap对BitMap的存
 
 （1）数据碰撞。比如将字符串映射到 BitMap 的时候会有碰撞的问题，那就可以考虑用 Bloom Filter 来解决，Bloom Filter 使用多个 Hash 函数来减少冲突的概率。
 
-（2）数据稀疏。又比如要存入(10,8887983,93452134)这三个数据，我们需要建立一个 99999999 长度的 BitMap ，但是实际上只存了3个数据，这时候就有很大的空间浪费，碰到这种问题的话，可以通过引入 Roaring BitMap 来解决。
+（2）数据稀疏。又比如要存入(10,8887983,93452134)这三个数据，我们需要建立一个 99999999 长度的 BitMap ，但是实际上只存了3个数据，这时候就有很大的空间浪费，碰到这种问题的话，可以通过引入 Roaring BitMap 来解决。![0903c8ef34e21758e4f25cd6ea1ef858](位图算法：什么是BitMap.assets/0903c8ef34e21758e4f25cd6ea1ef858.jpg)
+
+![0903c8ef34e21758e4f25cd6ea1ef858](位图算法：什么是BitMap.assets/0903c8ef34e21758e4f25cd6ea1ef858-1704533330160.jpg)
