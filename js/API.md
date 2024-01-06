@@ -419,4 +419,4 @@ DOM把上面的内容都看做对象
 //this 指的是事件函数的调用者
 ```
 
-![img](file:///C:\Users\艾丹\Documents\Tencent Files\2120931891\nt_qq\nt_data\Pic\2024-01\Ori\0903c8ef34e21758e4f25cd6ea1ef858.jpg)
+![0903c8ef34e21758e4f25cd6ea1ef858](API.assets/0903c8ef34e21758e4f25cd6ea1ef858-1704534180887.jpg)
