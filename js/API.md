@@ -14,7 +14,7 @@
 
 ##### DOM树
 
-<img src="file:///C:\Users\艾丹\Documents\Tencent Files\2120931891\nt_qq\nt_data\Pic\2023-12\Ori\3070c00d76313faf876319a609e188a8.jpg" alt="img" style="zoom: 150%;" />
+![image-20240107150533631](API.assets/image-20240107150533631.png)
 
 
 
@@ -108,7 +108,7 @@ DOM把上面的内容都看做对象
               </script>
       ```
 
-      ![image-20231209113612616](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231209113612616.png)
+      ![](API.assets/image-20231209113612616.png)
 
       3.返回指定选择器所有元素的对象
 
@@ -121,7 +121,7 @@ DOM把上面的内容都看做对象
              </script>
       ```
 
-      ![image-20231209114124239](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231209114124239.png)
+      ![](API.assets/image-20231209114124239.png)
 
 - 获取特殊元素(body html)
 
@@ -135,7 +135,7 @@ DOM把上面的内容都看做对象
   
   ```
 
-  ![image-20231209114634163](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231209114634163.png)
+  ![](API.assets/image-20231209114634163.png)
 
   2.获取html文件
 
@@ -148,7 +148,7 @@ DOM把上面的内容都看做对象
 
   
 
-![image-20231209114920494](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231209114920494.png)
+![](API.assets/image-20231209114920494.png)
 
 ##### 事件基础
 
@@ -210,7 +210,7 @@ DOM把上面的内容都看做对象
             }
     ```
 
-    ![img](file:///C:\Users\艾丹\Documents\Tencent Files\2120931891\nt_qq\nt_data\Pic\2023-12\Ori\92ee7a38066f541bd42887873bfa3412.jpg)
+    ![](API.assets/image-20240107150548128.png)
 
 - ##### 操作元素
 
@@ -243,7 +243,7 @@ DOM把上面的内容都看做对象
   
   
   
-  ![image-20231210125357789](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231210125357789.png)当我们点击了按钮，div里面的元素就会发生变化
+  ![](API.assets/image-20231210125357789.png)当我们点击了按钮，div里面的元素就会发生变化
   
   1、获取元素
   
@@ -321,7 +321,7 @@ DOM把上面的内容都看做对象
        </script>
   ```
 
-  ![image-20231210131122711](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231210131122711.png)
+  ![](API.assets/image-20231210131122711.png)
 
   ```js
     <div>123</div>
@@ -334,7 +334,7 @@ DOM把上面的内容都看做对象
        </script>
   ```
 
-  ![image-20231210131214142](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231210131214142.png)
+  ![](API.assets/image-20231210131214142.png)
 
 ###### 常用元素属性操作
 
@@ -407,9 +407,9 @@ DOM把上面的内容都看做对象
     </script>
 ```
 
-![image-20231210170853982](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231210170853982.png)
+![](API.assets/image-20231210170853982.png)
 
-![image-20231210170946312](C:\Users\艾丹\AppData\Roaming\Typora\typora-user-images\image-20231210170946312.png)
+![](API.assets/image-20231210170946312.png)
 
 如果想要表单被禁用，不能再点击
 
@@ -420,3 +420,24 @@ DOM把上面的内容都看做对象
 ```
 
 ![0903c8ef34e21758e4f25cd6ea1ef858](API.assets/0903c8ef34e21758e4f25cd6ea1ef858-1704534180887.jpg)
+
+###### 排他思想
+
+```js
+  
+    <script>
+        // 获取所有button元素
+        var btn = document.querySelectorAll('button');
+        // btn 得到的是伪数组 里面的每一个元素 btns[i]
+        for(var i = 0; i < btn.length;i++){
+            btn[i].onclick = function(){
+                this.style.color = 'red';
+                console.log(i);
+            }
+        }
+    </script>
+```
+
+这样会造成每一个点击过的按钮都是red
+
+![image-20240107150206684](API.assets/image-20240107150206684.png)
