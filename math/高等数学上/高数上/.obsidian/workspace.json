@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "770f902be741f907",
+    "type": "split",
+    "children": [
+      {
+        "id": "c401fc1aa15de68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a174f7981da6c20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "函数与极限/13闭区间上连续函数的性质/04一致连续性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e642268190c1d81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1870777491dc455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c794d13b4ed7a251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "970a5fe5501e788a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bd59221f3c8ae22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0e3ec70c6bf9132",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bbce414242db07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d5a629d81ce936b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "函数与极限/13闭区间上连续函数的性质/04一致连续性.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df3dce35dcb549f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "函数与极限/13闭区间上连续函数的性质/04一致连续性.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e28a23da4927525d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfcffd40ba508ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "函数与极限/13闭区间上连续函数的性质/04一致连续性.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a174f7981da6c20f",
+  "lastOpenFiles": [
+    "函数与极限/13闭区间上连续函数的性质/03介值定理.md",
+    "函数与极限/13闭区间上连续函数的性质/04一致连续性.md",
+    "函数与极限/13闭区间上连续函数的性质/02零点定理.md",
+    "函数与极限/13闭区间上连续函数的性质/01有界性与最大值最小值定理.md",
+    "函数与极限/13闭区间上连续函数的性质/00本节备注.md",
+    "函数与极限/11连续函数的运算/01连续函数的和差积商的连续性.md",
+    "函数与极限/11连续函数的运算/02反函数和复合函数的连续性.md",
+    "函数与极限/12初等函数的连续性/初等函数的连续性.md",
+    "函数与极限/01映射与函数/03函数的几种特性.md",
+    "函数与极限/映射与函数/03函数的几种特性.md",
+    "函数与极限/映射与函数",
+    "函数与极限/03函数的极限/01定义.md",
+    "函数与极限/03函数的极限/02性质.md",
+    "映射与函数/03函数的几种特性.md",
+    "映射与函数",
+    "01映射与函数/03函数的几种特性.md",
+    "01映射与函数",
+    "函数与极限/08无穷小的比较/01常用的等价无穷小.md",
+    "函数与极限/13闭区间上连续函数的性质",
+    "img/15.jpg",
+    "函数与极限/04无穷大与无穷小/无穷小.md",
+    "函数与极限/09函数的连续性/函数的连续性.md",
+    "函数与极限/04无穷大与无穷小/无穷大.md",
+    "img/16.png",
+    "img/15.png",
+    "img/14.png",
+    "函数与极限/01映射与函数/02常见函数的计算方法.md",
+    "函数与极限/01映射与函数/02常见函数的图像.md",
+    "函数与极限/02数列的极限/01数列极限的定义.md",
+    "函数与极限/01映射与函数/01映射.md",
+    "img/13.png",
+    "img/12.png",
+    "img/11.png",
+    "img/08.png",
+    "img/10.png",
+    "img/09.png",
+    "img/08.png.md",
+    "函数与极限/12初等函数的连续性",
+    "函数与极限/11连续函数的运算",
+    "函数与极限/10函数的间断点",
+    "函数与极限/09函数的连续性",
+    "函数与极限/08无穷小的比较",
+    "函数与极限/07两个重要极限",
+    "函数与极限/05极限运算法则.md",
+    "函数与极限/04无穷大与无穷.md",
+    "函数与极限/02数列的极限/02收敛数列的性质.md"
+  ]
+}

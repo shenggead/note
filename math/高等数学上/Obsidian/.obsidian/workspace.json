@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "9667fd3bc187cefd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af53f35cae94a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6283c9a70dff7f29",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00演示文件夹/看板演示.md"
+              }
+            }
+          },
+          {
+            "id": "0130bb11b40c3191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高数上.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c8ffd1a35ffc49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "512aff06684d3c6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0de2c6d69edd69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a5c877768f76afc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#函数",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a1609d39e2cb4bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "438abc045f1815cd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "674475d3cf436ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e18419a6a03d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24811bce91a1bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高数上.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06e18dd314177ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高数上.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e519ce50ae8f8def",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4993af49d793630a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高数上.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0130bb11b40c3191",
+  "lastOpenFiles": [
+    "高数上.md",
+    "00演示文件夹/看板演示.md",
+    "计算机的启动.md",
+    "DiscordSetup.exe",
+    "未确认 307690.crdownload",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "02笔记库/这里可以放置你的笔记.md",
+    "请先阅读这里（Readme）.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "日记/2021-12-06.md",
+    "模板/ZK笔记模板.md",
+    "附件/Pasted image 20210912162722.png",
+    "未确认 668420.crdownload",
+    "附件",
+    "模板",
+    "日记",
+    "Zettelkasten",
+    "02笔记库",
+    "01Inbox",
+    "00演示文件夹",
+    "高阶微分方程.md",
+    "未命名 1.canvas",
+    "未命名 1.md",
+    "2023-12-25.md",
+    "2023-12-26.md",
+    "未命名.canvas",
+    "2023-12-27.md"
+  ]
+}
