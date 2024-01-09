@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "93fb203a9e26e2ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9c07a0cd804eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5e07e0d709ae6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "函数与极限/01映射与函数/01映射.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0569fcf38605d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "52632531c02fb22e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0464126a50d201a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8726db80ce1106c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cd15861b1a32e28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5eb94b644844a17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd05d19f8c502c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4cd915a46f3d51e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "函数与极限/01映射与函数/01映射.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4935c126f88478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "函数与极限/01映射与函数/01映射.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c199d9c1bc96a12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc5971a80c25bdae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "函数与极限/01映射与函数/01映射.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3c5e07e0d709ae6d",
+  "lastOpenFiles": [
+    "函数与极限/img/01.jpg",
+    "函数与极限/01映射与函数/01映射.md",
+    "函数与极限/映射与函数/03函数的几种特性.md"
+  ]
+}

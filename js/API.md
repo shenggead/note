@@ -441,3 +441,25 @@ DOM把上面的内容都看做对象
 这样会造成每一个点击过的按钮都是red
 
 ![image-20240107150206684](API.assets/image-20240107150206684.png)
+
+当我们想要只有刚刚点击的那个有变化时，可以在点击时先把每一个按钮的颜色属性去掉，再给当前的按钮添加属性
+
+```js
+  <script>
+        // 获取所有button元素
+        var btn = document.querySelectorAll('button');
+        // btn 得到的是伪数组 里面的每一个元素 btns[i]
+        for(var i = 0; i < btn.length;i++){
+            btn[i].onclick = function(){
+                for(var j = 0;j < btn.length;j++){
+                   btn[j].style.color = 'black';
+                }
+                this.style.color = 'red';
+                console.log(i);
+            }
+        }
+    </script>
+```
+
+<video id="video" controls=""src="(API.assets/image-20240107150206684.png)" preload="none" style="zoom:50%;">
+
